@@ -7,3 +7,5 @@ our proposals might spark concrete action towards creating a more equitable and 
 We do not expect the IACR to act on all ideas, as not all fit it within its role; but we hope that this document serves as an inspiration and incentive to IACR members and individuals to offer help and take actions to improve the current state of affairs.
 
 See the statement here: [https://github.com/claucece/diversity-inclusion-statement/blob/main/On%20Creating%20a%20More%20Inclusive%20and%20Supporting%20Community.pdf](https://github.com/claucece/diversity-inclusion-statement/blob/main/On%20Creating%20a%20More%20Inclusive%20and%20Supporting%20Community.pdf)
+
+Want to collaborate? Ping us!
